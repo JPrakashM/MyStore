@@ -1,0 +1,13 @@
+D:\Work\project\MyStore\MyStore\obj\Docker\publish\MyStore.exe
+D:\Work\project\MyStore\MyStore\obj\Docker\publish\appsettings.Development.json
+D:\Work\project\MyStore\MyStore\obj\Docker\publish\appsettings.json
+D:\Work\project\MyStore\MyStore\obj\Docker\publish\MyStore.dll
+D:\Work\project\MyStore\MyStore\obj\Docker\publish\MyStore.deps.json
+D:\Work\project\MyStore\MyStore\obj\Docker\publish\MyStore.runtimeconfig.json
+D:\Work\project\MyStore\MyStore\obj\Docker\publish\MyStore.pdb
+D:\Work\project\MyStore\MyStore\obj\Docker\publish\System.Data.SqlClient.dll
+D:\Work\project\MyStore\MyStore\obj\Docker\publish\runtimes\win-arm64\native\sni.dll
+D:\Work\project\MyStore\MyStore\obj\Docker\publish\runtimes\win-x64\native\sni.dll
+D:\Work\project\MyStore\MyStore\obj\Docker\publish\runtimes\win-x86\native\sni.dll
+D:\Work\project\MyStore\MyStore\obj\Docker\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Work\project\MyStore\MyStore\obj\Docker\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
